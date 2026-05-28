@@ -60,6 +60,7 @@ master-vault/
 
 - [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) — концепция и устройство
 - [`docs/INSTALL.md`](docs/INSTALL.md) — установка вручную
+- [`docs/SYNC.md`](docs/SYNC.md) — синхронизация vault между устройствами (варианты + грабля с `.git/`)
 
 ## License
 
